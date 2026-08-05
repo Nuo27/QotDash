@@ -4,6 +4,8 @@
 
 > 内置 Z.ai / MiniMax / Kimi provider 仅作测试和示例。
 
+[English →](./README.en.md)
+
 ## 使用方法
 
 在 `.env` 填入对应的变量名和你的 API Key，例如：

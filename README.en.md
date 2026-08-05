@@ -4,6 +4,8 @@ A small personal tool — coding plan quota monitor.
 
 > The built-in Z.ai / MiniMax / Kimi providers are for testing and example only.
 
+[中文版 →](./README.md)
+
 ## Usage
 
 Fill in your API keys in `.env`:
